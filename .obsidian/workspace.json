@@ -53,133 +53,35 @@
             }
           },
           {
-            "id": "d0cdc9047830ee5c",
+            "id": "6ab09d2310405380",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 - 2warm.md",
+                "file": "19 - Big Zip.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2 - 2warm"
+              "title": "19 - Big Zip"
             }
           },
           {
-            "id": "2a4ae14d68138553",
+            "id": "fdbd1a52b6351f78",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 - Bases.md",
+                "file": "20 - Based.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3 - Bases"
-            }
-          },
-          {
-            "id": "9c9fe241ced9d9e4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4 - First Grep.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "4 - First Grep"
-            }
-          },
-          {
-            "id": "186c04611715afa3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "5 - Glitch Cat.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "5 - Glitch Cat"
-            }
-          },
-          {
-            "id": "b8b8af2c9342307d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "6 - Nice netcat....md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "6 - Nice netcat..."
-            }
-          },
-          {
-            "id": "1f9d6e4cb9c83c3a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "7 - Obedient Cat.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "7 - Obedient Cat"
-            }
-          },
-          {
-            "id": "b29ba05ecbf9a763",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "8 - plumbing.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "8 - plumbing"
-            }
-          },
-          {
-            "id": "7612aec06a5cab26",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "9 - Warmed Up.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "9 - Warmed Up"
-            }
-          },
-          {
-            "id": "810b89d1ff500281",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "10 - whats a net cat.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "10 - whats a net cat"
+              "title": "20 - Based"
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -346,18 +248,28 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "810b89d1ff500281",
+  "active": "fdbd1a52b6351f78",
   "lastOpenFiles": [
-    "8 - plumbing.md",
+    "19 - Big Zip.md",
+    "20 - Based.md",
+    "17 - Magikarp Ground Mission.md",
+    "16 - Tab, Tab, Attack.md",
+    "15 - Useless.md",
+    "14 - Static ain't always noise.md",
+    "13 - Wave a Flag.md",
+    "18 - strings it.md",
+    "11 - repetitions.md",
+    "12 - First Find.md",
+    "2 - 2warm.md",
+    "1 - Lets Warm Up.md",
     "10 - whats a net cat.md",
     "9 - Warmed Up.md",
+    "8 - plumbing.md",
     "7 - Obedient Cat.md",
     "6 - Nice netcat....md",
     "5 - Glitch Cat.md",
     "4 - First Grep.md",
     "3 - Bases.md",
-    "2 - 2warm.md",
-    "1 - Lets Warm Up.md",
     "Plantilla.md",
     "README.md",
     "Bienvenido.md"
