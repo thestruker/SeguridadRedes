@@ -79,9 +79,149 @@
               "icon": "lucide-file",
               "title": "20 - Based"
             }
+          },
+          {
+            "id": "9108dfac82bf2593",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "21 - Codebook.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "21 - Codebook"
+            }
+          },
+          {
+            "id": "2493684b0acf1ce1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "21 - convertme.py.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "21 - convertme.py"
+            }
+          },
+          {
+            "id": "08e477d63dfba25f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "22 - fixme1.py.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "22 - fixme1.py"
+            }
+          },
+          {
+            "id": "fba613bff3634626",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "23 - fixme2.py.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "23 - fixme2.py"
+            }
+          },
+          {
+            "id": "f9bdeadd42a4d20b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "24 - PW Crack 1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "24 - PW Crack 1"
+            }
+          },
+          {
+            "id": "6ba83ebf06d9a402",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "25 - PW Crack 2.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "25 - PW Crack 2"
+            }
+          },
+          {
+            "id": "2152e0d495f728f8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "26 - PW Crack 3.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "26 - PW Crack 3"
+            }
+          },
+          {
+            "id": "ca2ee1186f61c4ab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "27 - runme.py.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "27 - runme.py"
+            }
+          },
+          {
+            "id": "32f192728edb5413",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "28 - Serpentine.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "28 - Serpentine"
+            }
+          },
+          {
+            "id": "993ae66ddec3b5f6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "26 - PW Crack 3.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "26 - PW Crack 3"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -248,30 +388,33 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "fdbd1a52b6351f78",
+  "active": "993ae66ddec3b5f6",
   "lastOpenFiles": [
-    "19 - Big Zip.md",
-    "20 - Based.md",
-    "17 - Magikarp Ground Mission.md",
-    "16 - Tab, Tab, Attack.md",
+    "28 - Serpentine.md",
+    "27 - runme.py.md",
+    "29 - Super SSH.md",
     "15 - Useless.md",
     "14 - Static ain't always noise.md",
     "13 - Wave a Flag.md",
-    "18 - strings it.md",
-    "11 - repetitions.md",
     "12 - First Find.md",
-    "2 - 2warm.md",
-    "1 - Lets Warm Up.md",
-    "10 - whats a net cat.md",
-    "9 - Warmed Up.md",
+    "11 - repetitions.md",
     "8 - plumbing.md",
-    "7 - Obedient Cat.md",
+    "9 - Warmed Up.md",
+    "17 - Magikarp Ground Mission.md",
+    "18 - strings it.md",
+    "19 - Big Zip.md",
+    "26 - PW Crack 3.md",
+    "25 - PW Crack 2.md",
+    "21 - convertme.py.md",
+    "20 - Based.md",
     "6 - Nice netcat....md",
-    "5 - Glitch Cat.md",
-    "4 - First Grep.md",
     "3 - Bases.md",
-    "Plantilla.md",
-    "README.md",
-    "Bienvenido.md"
+    "1 - Lets Warm Up.md",
+    "24 - PW Crack 1.md",
+    "16 - Tab, Tab, Attack.md",
+    "21 - Codebook.md",
+    "23 - fixme2.py.md",
+    "22 - fixme1.py.md",
+    "2 - 2warm.md"
   ]
 }
