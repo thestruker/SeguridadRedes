@@ -1,10 +1,9 @@
 
-# Reto
 
 # Descripción
 
-# Solucion
+## Solucion
 
-# Notas Adicionales
+## Notas Adicionales
 
-# Referencias
+## Referencias
