@@ -1,9 +1,9 @@
 
 
-# Descripción
+## Solución
 
-## Solucion
 
 ## Notas Adicionales
+
 
 ## Referencias
