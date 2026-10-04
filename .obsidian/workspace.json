@@ -18,175 +18,119 @@
             }
           },
           {
-            "id": "6803c3c5d1ec2f96",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "52 - MatchTheRegex.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "52 - MatchTheRegex"
-            }
-          },
-          {
-            "id": "9ac64158a58c53c6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "55 - Most Cookies.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "55 - Most Cookies"
-            }
-          },
-          {
-            "id": "892ac30d08797c4b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "56 - Includes.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "56 - Includes"
-            }
-          },
-          {
-            "id": "7ca07025a7a312f8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "57 - Inspect HTML.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "57 - Inspect HTML"
-            }
-          },
-          {
-            "id": "e20c605867f86ccb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "58 - IntroToBurp.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "58 - IntroToBurp"
-            }
-          },
-          {
-            "id": "6b7be506927959da",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "59 - Local Authority.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "59 - Local Authority"
-            }
-          },
-          {
-            "id": "e40d407c11eff439",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "60 - Power Cookie.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "60 - Power Cookie"
-            }
-          },
-          {
-            "id": "b679040cf7786278",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "61 - Roboto Sans.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "61 - Roboto Sans"
-            }
-          },
-          {
-            "id": "8565b785cd22272f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "62 - Secrets.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "62 - Secrets"
-            }
-          },
-          {
-            "id": "31b3877fe0fec29d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "63 - SQLiLite.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "63 - SQLiLite"
-            }
-          },
-          {
-            "id": "f3d2dc09866c4017",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "64 - Unminify.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "64 - Unminify"
-            }
-          },
-          {
             "id": "eaf75029434b37db",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "65 - WebDecode.md",
+                "file": "Examen Parcial Parte 1/2 - Wave a Flag.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "65 - WebDecode"
+              "title": "2 - Wave a Flag"
+            }
+          },
+          {
+            "id": "42752f75afb528d1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Examen Parcial Parte 1/4 - FANTASY CTF.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "4 - FANTASY CTF"
+            }
+          },
+          {
+            "id": "dc16dc58ccc681df",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Examen Parcial Parte 2/1 - Bookmarklet.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1 - Bookmarklet"
+            }
+          },
+          {
+            "id": "331e62ab21361fbb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Examen Parcial Parte 2/3 - findme.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "3 - findme"
+            }
+          },
+          {
+            "id": "5f2b6f292e69ed6d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Examen Parcial Parte 2/3 - findme.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "3 - findme"
+            }
+          },
+          {
+            "id": "a429e85ea7b57249",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Examen Parcial Parte 2/5 - Java Code Analysis.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "5 - Java Code Analysis"
+            }
+          },
+          {
+            "id": "60e62b42cd633669",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Examen Parcial Parte 2/6 - n0s4n1ty 1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "6 - n0s4n1ty 1"
+            }
+          },
+          {
+            "id": "2105015721a1574b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Examen Parcial Parte 2/5 - Java Code Analysis.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "5 - Java Code Analysis"
             }
           }
         ],
-        "currentTab": 12
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -264,7 +208,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Plantilla.md",
+                "file": "Examen Parcial Parte 2/5 - Java Code Analysis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -353,33 +297,35 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "eaf75029434b37db",
+  "active": "2105015721a1574b",
   "lastOpenFiles": [
+    "Examen Parcial Parte 2/4 - head-dump.md",
+    "Examen Parcial Parte 2/5 - Java Code Analysis.md",
+    "Examen Parcial Parte 2/10 - WebSockFish.md",
+    "Examen Parcial Parte 2/9 - SSTI2.md",
+    "Examen Parcial Parte 2/8 - SSTI1.md",
+    "Examen Parcial Parte 2/7 - SQL Direct.md",
+    "Examen Parcial Parte 2/6 - n0s4n1ty 1.md",
+    "Examen Parcial Parte 2/1 - Bookmarklet.md",
+    "Examen Parcial Parte 2/2 - Cookie Monster Secret Recipe.md",
+    "Examen Parcial Parte 2/3 - findme.md",
+    "Sin título 1.md",
+    "Examen Parcial Parte 1/10 - SansAlpha.md",
+    "Examen Parcial Parte 1/9 - Rust fixme 3.md",
+    "Examen Parcial Parte 1/8 - Rust fixme 2.md",
+    "Examen Parcial Parte 2",
+    "Examen Parcial Parte 1/7 - Rust fixme 1.md",
+    "Examen Parcial Parte 1/6 - Python Wrangling.md",
+    "Examen Parcial Parte 1/1 - dont-you-love-banners.md",
+    "Examen Parcial Parte 1/3 - flag_shop.md",
+    "Examen Parcial Parte 1/2 - Wave a Flag.md",
+    "Examen Parcial Parte 1/4 - FANTASY CTF.md",
+    "Examen Parcial Parte 1/5 - HashingJobApp.md",
     "Plantilla.md",
+    "13 - Wave a Flag.md",
+    "Sin título.md",
     "65 - WebDecode.md",
-    "64 - Unminify.md",
-    "63 - SQLiLite.md",
-    "62 - Secrets.md",
-    "61 - Roboto Sans.md",
-    "60 - Power Cookie.md",
-    "59 - Local Authority.md",
-    "58 - IntroToBurp.md",
-    "57 - Inspect HTML.md",
-    "56 - Includes.md",
-    "55 - Most Cookies.md",
-    "54 - Trickster.md",
-    "53 - SOAP.md",
-    "52 - MatchTheRegex.md",
-    "51 - JaWT Scratchpad.md",
-    "50 - More SQLi.md",
-    "README.md",
-    "49 - Irish-Name-Repo 1.md",
-    "48 - Scavenger Hunt.md",
-    "47 - Cookies.md",
-    "46 - GET aHEAD.md",
-    "43 - dont-use-client-side.md",
-    "44 - picobrowser.md",
-    "45 - Client-side-again.md",
-    "41 - where are the robots.md"
+    "14 - Static ain't always noise.md",
+    "Examen Parcial Parte 1"
   ]
 }
