@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Examen Parcial Parte 2/5 - Java Code Analysis.md",
+                "file": "Forensic 1/4 - extensions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5 - Java Code Analysis"
+              "title": "4 - extensions"
             }
           }
         ]
@@ -190,8 +190,17 @@
   },
   "active": "d022e507bd70331e",
   "lastOpenFiles": [
-    "Examen Parcial Parte 1/2 - Wave a Flag.md",
+    "Forensic 1/5 - What Lies Within.md",
+    "Forensic 1/3 - shark on wire 1.md",
+    "Forensic 1/2 - So Meta.md",
+    "Forensic 1/1 - Glory of the Garden.md",
+    "5 - Glitch Cat.md",
+    "Forensic 1/4 - extensions.md",
+    "Forensic 1",
+    "65 - WebDecode.md",
+    "Sin nombre",
     "Examen Parcial Parte 2/5 - Java Code Analysis.md",
+    "Examen Parcial Parte 1/2 - Wave a Flag.md",
     "Examen Parcial Parte 2/6 - n0s4n1ty 1.md",
     "Examen Parcial Parte 2/3 - findme.md",
     "Examen Parcial Parte 2/1 - Bookmarklet.md",
@@ -210,13 +219,6 @@
     "Examen Parcial Parte 1/7 - Rust fixme 1.md",
     "Examen Parcial Parte 1/6 - Python Wrangling.md",
     "Examen Parcial Parte 1/1 - dont-you-love-banners.md",
-    "Examen Parcial Parte 1/3 - flag_shop.md",
-    "Examen Parcial Parte 1/5 - HashingJobApp.md",
-    "Plantilla.md",
-    "13 - Wave a Flag.md",
-    "Sin título.md",
-    "65 - WebDecode.md",
-    "14 - Static ain't always noise.md",
     "Examen Parcial Parte 1"
   ]
 }
